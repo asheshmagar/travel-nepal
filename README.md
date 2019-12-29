@@ -1,3 +1,21 @@
+                                              SCREENSHOTS
+                                                  
+![travel1](https://user-images.githubusercontent.com/45454049/71552269-b1976d80-2a21-11ea-89af-1219f2093fc7.png)
+
+
+![travel2](https://user-images.githubusercontent.com/45454049/71552270-b1976d80-2a21-11ea-871c-7a5b322e9f71.png)
+
+
+![travel3](https://user-images.githubusercontent.com/45454049/71552271-b2300400-2a21-11ea-8f9e-0e7d20ddc78f.png)
+
+
+![travel4](https://user-images.githubusercontent.com/45454049/71552272-b2300400-2a21-11ea-9945-8a5bbeb906a7.png)
+
+
+![travel5](https://user-images.githubusercontent.com/45454049/71552273-b2300400-2a21-11ea-9338-59dc16a25796.png)
+                                                  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
